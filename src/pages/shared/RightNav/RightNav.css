@@ -1,0 +1,16 @@
+.amazing {
+    background-image: url(../../../assets/bg1.png);
+}
+
+.learn {
+    width: 150px;
+    height: 64px;
+    background: #D72050;
+    color: white;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    border: none;
+}
